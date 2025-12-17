@@ -1,0 +1,8 @@
+{
+  "notification.sound": "off",
+  "audioCues.lineHasError": "off",
+"audioCues.lineHasWarning": "off",
+"audioCues.lineeHasBreakpoint": "off",
+  "accessibility.signals.sounds.enabled": false,
+  "terminal.integrated.enableBell": false
+}
